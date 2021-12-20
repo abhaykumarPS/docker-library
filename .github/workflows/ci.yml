@@ -26,4 +26,4 @@ jobs:
           file: ./ansible/2.10/debian/Dockerfile
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: abhay/datadog:ansible_debian_2_11
+          tags: abhay900/datadog:ansible_debian_2_11
